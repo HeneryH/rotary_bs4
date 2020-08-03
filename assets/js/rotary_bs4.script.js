@@ -17847,8 +17847,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /var/www/rotary_site/web/themes/contrib/rotary_bs4/src/js/rotary_bs4.script.js */"./src/js/rotary_bs4.script.js");
-module.exports = __webpack_require__(/*! /var/www/rotary_site/web/themes/contrib/rotary_bs4/src/sass/rotary_bs4.style.scss */"./src/sass/rotary_bs4.style.scss");
+__webpack_require__(/*! /home/jjflynn22/rotary_clubs/rotary_bs4/src/js/rotary_bs4.script.js */"./src/js/rotary_bs4.script.js");
+module.exports = __webpack_require__(/*! /home/jjflynn22/rotary_clubs/rotary_bs4/src/sass/rotary_bs4.style.scss */"./src/sass/rotary_bs4.style.scss");
 
 
 /***/ })
