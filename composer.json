@@ -1,0 +1,10 @@
+{
+    "name": "rotary/rotary_bs4",
+    "type": "drupal-theme",
+    "description": "Rotary International Theme.",
+    "homepage": "http://drupal.org",
+    "license": "GPL-2.0+",
+    "require": {
+    "drupal/radix": "^4" 
+    }
+}

@@ -1,0 +1,5 @@
+# Schema for the configuration files of the rotary_bs4 theme.
+
+rotary_bs4.settings:
+  type: theme_settings
+  label: 'rotary_bs4 settings'
